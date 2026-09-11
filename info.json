@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "66ca01f60d6515aeccc86458c5bed99b9d61ae23",
+    "author": "Simon Nolte <81624911+smnnlt@users.noreply.github.com>",
+    "time": "2026-09-11T07:55:10Z",
+    "files": 11,
+    "merge": false,
+    "message": "Added includes to fix clang23 failure\n"
+  },
+  "repo": "https://github.com/ropensci/c3dr",
+  "pkg": "c3dr",
+  "time": "2026-09-11T09:59:41Z"
+}
